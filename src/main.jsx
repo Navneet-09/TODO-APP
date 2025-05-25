@@ -5,7 +5,7 @@ import App from './App.jsx'
 import { ToastContainer} from 'react-toastify';
 import Wrapper from './wrapper.jsx';
 
-
+// Added context 
 createRoot(document.getElementById('root')).render(
   <Wrapper>
     <App />
